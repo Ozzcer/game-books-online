@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Attribute } from 'src/app/enums/attributes.enum';
 
 @Component({
   selector: 'home',
